@@ -1,0 +1,13 @@
+Location /writeup
+	Rewrite /assets/Group_04_SeniorDesignPeeps_FINAL.pdf
+
+Files
+	manifest.json
+	robots.txt
+	sitemap.xml
+	favicon.ico
+	favicon-192.png
+	favicon-512.png
+	apple-touch-icon.png
+	assets/homepage.png
+	assets/Group_04_SeniorDesignPeeps_FINAL.pdf
